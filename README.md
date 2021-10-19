@@ -16,7 +16,7 @@ No installation needed.
 
 ## Usage 
 This is not a function application. It is for test purposes.<br>
-Please view deployed Git Hub [URL]()
+Please view deployed Git Hub [URL](https://AbrarChowdhry98.github.io/index.html/)
 <img src="./assets/images/Website-1.png">
 <img src="./assets/images/Website-2.png">
 
